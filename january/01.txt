@@ -1,0 +1,5 @@
+Watched:
+Title: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals Chapter 4 of 13
+Author: Erik Meijer
+Date: Oct 22, 2009
+Link: http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/C9-Lectures-Dr-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-4-of-13
