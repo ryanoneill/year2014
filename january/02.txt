@@ -11,3 +11,10 @@ Title: Conceptual Mathematics: A First Introduction to Categories
 Author: F. William Lawvere, Stephen H. Schanuel
 Date: Aug 31, 2009
 Link: http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/
+
+Listened:
+Episode: 1
+Title: Episode 1 - Robert C. Martin
+Podcast: Functional Geekery
+Date: Dec 31, 2013
+Link: http://www.functionalgeekery.com/episode-1-robert-c-martin/
