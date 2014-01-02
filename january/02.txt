@@ -4,3 +4,10 @@ Title: An Introduction to Information Theory: Symbols, Signals and Noise
 Author: John R. Pierce
 Date: Apr 26, 2012
 Link: http://www.amazon.com/Introduction-Information-Theory-Symbols-Mathematics-ebook/dp/B008TVLR0O/
+
+Read:
+Chapter: Part I
+Title: Conceptual Mathematics: A First Introduction to Categories
+Author: F. William Lawvere, Stephen H. Schanuel
+Date: Aug 31, 2009
+Link: http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/
