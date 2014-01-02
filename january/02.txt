@@ -1,0 +1,6 @@
+Read:
+Chapter: 1
+Title: An Introduction to Information Theory: Symbols, Signals and Noise
+Author: John R. Pierce
+Date: Apr 26, 2012
+Link: http://www.amazon.com/Introduction-Information-Theory-Symbols-Mathematics-ebook/dp/B008TVLR0O/
