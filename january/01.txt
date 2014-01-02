@@ -1,5 +1,20 @@
 Watched:
-Title: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals Chapter 4 of 13
+Chapter: 4
+Title: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals
 Author: Erik Meijer
 Date: Oct 22, 2009
 Link: http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/C9-Lectures-Dr-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-4-of-13
+
+Read:
+Chapter: 3
+Title: Developing Web Applications with Haskell and Yesod
+Author: Michael Snoyman
+Date: Apr 23, 2012
+Link: http://www.amazon.com/Developing-Web-Applications-Haskell-Yesod-ebook/dp/B007X4M4K0/
+
+Read:
+Chapter: 3
+Title: Real World Haskell
+Authors: Bryan O'Sullivan, John Goerzen, Don Stewart
+Date: Dec 1, 2008
+Link: http://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980/
