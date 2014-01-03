@@ -18,3 +18,17 @@ Title: Episode 1 - Robert C. Martin
 Podcast: Functional Geekery
 Date: Dec 31, 2013
 Link: http://www.functionalgeekery.com/episode-1-robert-c-martin/
+
+Listened:
+Episode: 83
+Title: JSJ FRP and RxJS with Matthew Podwysocki
+Podcast: JavaScript Jabber
+Date: Nov 8, 2013
+Link: http://javascriptjabber.com/083-jsj-frp-and-rxjs-with-matthew-podwysocki/
+
+Listener:
+Episode: 37
+Title: JSJ Promises with Domenic Denicola and Kris Kowal
+Podcast: JavaScript Jabber
+Date: Dec 7, 2012
+Link: http://javascriptjabber.com/037-jsj-promises-with-domenic-denicola-and-kris-kowal/
