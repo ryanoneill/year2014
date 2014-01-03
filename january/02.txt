@@ -32,3 +32,11 @@ Title: JSJ Promises with Domenic Denicola and Kris Kowal
 Podcast: JavaScript Jabber
 Date: Dec 7, 2012
 Link: http://javascriptjabber.com/037-jsj-promises-with-domenic-denicola-and-kris-kowal/
+
+Read:
+Chapter: 3,4,5,6
+Title: Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation
+Author: Mark C. Chu-Carroll
+Date: Jul 25, 2013
+Link: http://www.amazon.com/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/
+
