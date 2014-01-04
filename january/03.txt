@@ -1,0 +1,6 @@
+Read:
+Chapter: 4,5
+Title: Writing Compilers and Interpreters: A Software Engineering Approach 
+Author: Ronald Mak
+Date: Sep 28, 2009
+Link: http://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071/
