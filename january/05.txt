@@ -1,0 +1,6 @@
+Read:
+Chapter: 8, 9
+Title: An Introduction to Functional Programming Through Lambda Calculus
+Author: Greg Michaelson
+Date: Aug 18, 2012
+Link: http://www.amazon.com/Introduction-Functional-Programming-Calculus-Mathematics-ebook/dp/B00CWR4USM/

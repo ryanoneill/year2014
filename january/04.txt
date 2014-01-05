@@ -6,7 +6,7 @@ Date: Jul 25, 2013
 Link: http://www.amazon.com/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/
 
 Read:
-Chapter: 4
+Chapter: 4, 5
 Title: Real World Haskell
 Authors: Bryan O'Sullivan, John Goerzen, Don Stewart
 Date: Dec 1, 2008
