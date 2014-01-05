@@ -1,0 +1,7 @@
+Read:
+Chapter: 7
+Title: Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation
+Author: Mark C. Chu-Carroll
+Date: Jul 25, 2013
+Link: http://www.amazon.com/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/
+
