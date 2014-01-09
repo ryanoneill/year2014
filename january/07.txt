@@ -1,0 +1,6 @@
+Read:
+Chapter: 1, 2
+Title: How Debuggers Work: Algorithms, Data Structures, and Architecture
+Author: Jonathan B. Rosenberg
+Date: Oct 11, 1996
+Link: http://www.amazon.com/How-Debuggers-Work-Algorithms-Architecture-ebook/dp/B003VIWZCY/

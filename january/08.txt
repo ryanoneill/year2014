@@ -1,0 +1,20 @@
+Read:
+Chapter: 49, 50, 51, 52, 53, 54, 55, 56
+Title: Finite and Infinite Games
+Author: James Carse 
+Date: Oct 11, 2011
+Link: http://www.amazon.com/Finite-Infinite-Games-James-Carse-ebook/dp/B004W3FM4A/ 
+
+Read:
+Chapter: 2
+Title: Essentials of Programming Languages
+Authors: Daniel P. Friedman, Mitchell Wand
+Date: Mar 31, 2008
+Link: http://www.amazon.com/Essentials-Programming-Languages-Daniel-Friedman-ebook/dp/B008H5Q32E/
+
+Watched:
+Chapter: Week 1 
+Title: Principles of Reactive Programming
+Author: Erik Meijer, Martin Odersky, Roland Kuhn
+Date: Nov 4, 2013
+Link: https://class.coursera.org/reactive-001
