@@ -1,0 +1,6 @@
+Read:
+Chapter: 3
+Title: Essentials of Programming Languages
+Authors: Daniel P. Friedman, Mitchell Wand
+Date: Mar 31, 2008
+Link: http://www.amazon.com/Essentials-Programming-Languages-Daniel-Friedman-ebook/dp/B008H5Q32E/
