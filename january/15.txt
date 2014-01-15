@@ -1,0 +1,11 @@
+Watched:
+Title: Life After Monoids
+Author: Tom Switzer
+Date: Mar 1, 2013
+Link: http://www.youtube.com/watch?v=xO9AoZNSOH4
+
+Watched:
+Title: Codemania 2013: Katie Miller on Monads
+Author: Katie Miller
+Date: Apr 12, 2013
+Link: http://www.youtube.com/watch?v=MlZCiiKGbb0
