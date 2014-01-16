@@ -9,3 +9,16 @@ Title: Codemania 2013: Katie Miller on Monads
 Author: Katie Miller
 Date: Apr 12, 2013
 Link: http://www.youtube.com/watch?v=MlZCiiKGbb0
+
+Watched:
+Title: Monads, Monoids, and Make Believe
+Author: Briand Lonsdorf
+Date: Oct 15, 2002
+Link: http://www.youtube.com/watch?v=ww2Z1URx-G0
+
+Read:
+Chapter: 1
+Title: Learn You a Haskell for Great Good!: A Beginner's Guide
+Author: Miran Lipovaca
+Date: Mar 15, 2011
+Link: http://www.amazon.com/Learn-You-Haskell-Great-Good-ebook/dp/B004VB3V0K/`
