@@ -1,0 +1,6 @@
+Read:
+Chapter: 2
+Title: Learn You a Haskell for Great Good!: A Beginner's Guide
+Author: Miran Lipovaca
+Date: Mar 15, 2011
+Link: http://www.amazon.com/Learn-You-Haskell-Great-Good-ebook/dp/B004VB3V0K/`
