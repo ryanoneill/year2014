@@ -1,0 +1,13 @@
+Read:
+Chapter: 1, 2
+Title: Functional Programming Patters in Scala and Clojure: Write Lean Programs for the JVM
+Author: Michael Bevilacqua-Linn 
+Date: Jan 13, 2014
+Link: http://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure-ebook/dp/B00HUEG8KK/
+
+Watched:
+Chapter: Week 1
+Title: Compilers
+Author: Alex Aiken
+Date: Apr 13, 2013
+Link: https://class.coursera.org/compilers-003
